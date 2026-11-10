@@ -1,0 +1,14 @@
+{
+  "name": "labotech",
+  "description": "Plugins de Labotech de Venezuela, C.A.",
+  "owner": {
+    "name": "Labotech de Venezuela, C.A."
+  },
+  "plugins": [
+    {
+      "name": "labotech-brand",
+      "source": "./plugins/labotech-brand",
+      "description": "Guía de marca de Labotech: voz, tono, colores, tipografía y reglas de contenido para web y marketing."
+    }
+  ]
+}
